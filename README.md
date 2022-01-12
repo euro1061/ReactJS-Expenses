@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Demo Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://euro1061.github.io/ReactJS-Expenses/
 
 ## Available Scripts
 
